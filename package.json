@@ -1,0 +1,13 @@
+{
+  "name": "aula-04",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "i18n": "^0.13.3"
+  }
+}
